@@ -1,0 +1,12 @@
+h3{
+    color: gray;
+    background-color: antiquewhite;
+}
+.myclass{
+    color:cadetblue;
+    background-color: azure;
+}
+body{
+    padding: 30px;
+    margin: 10px;
+}
