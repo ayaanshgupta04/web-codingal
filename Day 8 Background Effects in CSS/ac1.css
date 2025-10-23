@@ -1,0 +1,13 @@
+body{
+  background-color: blue;
+  background-image: url('https://cdn.pixabay.com/photo/2017/09/27/01/16/koryaksky-volcano-2790656_1280.jpg');
+  background-repeat: no-repeat;
+  background-position: top right;
+  background-attachment: fixed;
+  background-size: cover;
+}
+div{
+  background-color: white;
+  padding: 20px 80px;
+  
+}
