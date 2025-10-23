@@ -1,0 +1,31 @@
+h1{
+    color:beige;
+    text-align: center;
+}
+body{
+    background-color: black;
+    color:black;
+    background-image: url(https://cdn.pixabay.com/photo/2021/11/11/09/12/lighthouse-6785763_1280.jpg);
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 20px 40px;
+}
+div{
+    background: linear-gradient(135deg, #f8f1e4, #e4d8b4, #d6c48c);
+    padding: 10px 20px;
+    border-radius: 15px;
+    box-shadow: 7px 7px 7px #3a506b
+}
+i{
+    color:red;
+}
+em{
+    color:red;
+}
+#alternate{
+    /* background: linear-gradient(to right, #1a1a2e, #16213e, #0f3460); */
+    color:beige;
+    background: linear-gradient(135deg, #0b132b, #1c2541, #3a506b, #5bc0be);
+}
