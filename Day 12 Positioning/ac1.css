@@ -1,0 +1,19 @@
+div{
+  background-color: green;
+  width: 400px;
+  height: 100px;
+  margin: 20px;
+  padding: 5px 10px;
+}
+.first{
+  opacity: 0.1;
+}
+.second{
+  opacity: 0.3;
+}
+.third{
+  opacity: 0.6;
+}
+.fourth{
+  opacity: 1; /*The Opacity is 1 by default - this is just shown for example*/
+}
